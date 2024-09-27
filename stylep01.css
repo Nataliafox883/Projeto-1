@@ -125,12 +125,23 @@ main > ul {
     margin-left: 10px;
     }
 
+    picture {
+        display: block;
+        text-align: center;
+        
+    }
+        
+       
+
+        
 
    picture p {
     color: rgb(110, 108, 108);
     text-indent: 0px;
     margin-top: 0px;
     margin-bottom: 15px;
+    text-align: center;
+
    }
 
 
